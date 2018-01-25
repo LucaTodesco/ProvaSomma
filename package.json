@@ -1,0 +1,22 @@
+{
+  "name": "prova_getarea",
+  "version": "1.0.0",
+  "description": "Prova d'esame di gennaio di SE2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaTodesco/ProvaSomma.git"
+  },
+  "author": "Luca Todesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaTodesco/ProvaSomma/issues"
+  },
+  "homepage": "https://github.com/LucaTodesco/ProvaSomma#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
